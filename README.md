@@ -29,11 +29,30 @@ Wireframe (User story 5: Move a task backwards)
 ![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/movebackward.gif)
 
 
-### Front-end tasks and requirements
+## Front-end tasks and requirements
 
 - Build the application in any framework/libraries of your choice (Preferably ReactJS or VueJS but others are also welcome)
 - You are free to mock the data required to develop this application, including login.
 - Feel free to use any third party libraries or starter projects.  Choice of third party libraries will also be part of the evaluation.
 - Bonus (Optional): 
   - Use any testing libraries or framework to test against the acceptance criteria defined in the user stories.
+- Timeline of the assignment is 3 days, please let us know if you need time extension.
+
+## Back-end tasks and requirements
+
+- Analyze the requirements, design and document the API specifications to support the user stories. Create an endpoint (for example /api/docs) to serve a Swagger UI (or similar) page to display these API specs.
+- Create the APIs as specified in the API specifications you just created. Apart from the API specification page and login endpoint, all other endpoints should be protected (i.e. Only users who have logged in should be able to access these endpoints). Your backend application should be stateless.
+- You may use any in-memory database for this exercise. e.g. H2, sqlite
+- Consider extensibility in your design e.g. How can we make it easy to customize columns in the future
+- Include appropriate validations on incoming API requests
+- Include appropriate logs with appropriate logging tools
+- Include appropriate automated API and unit tests
+- Dockerize your application with a dockerfile such that your application can be run with a simple docker command
+- Include a README to document the following:
+  - How to run your application and automated tests (it should be as simple as possible)
+  - Assumptions you have made and design considerations 
+  - How you deal with concurrency and conflicting states
+  - Any other things you feel it will be useful for us to know
+- Optional: Everytime a task is created,deleted or moved, make an API call to an external email service to simulate an email notification being sent to manager@email.com. The email service is not real and you may use any way to mock the response of this external email service. The trigger for this email notification should be event-driven.
+- Optional: Include additional security features to protect your application and explain them in the README.
 - Timeline of the assignment is 3 days, please let us know if you need time extension.
