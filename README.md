@@ -1,6 +1,6 @@
-#Take-home Assignment
+# Take-home Assignment
 
-##Overview
+## Overview
 You are tasked to build a kanban board on a web application for the development team to manage their development tasks. The kanban board consists of 4 main columns, Backlog, To Do, Ongoing and Done.
 
 User Stories for Kanban Board Web Application
@@ -27,3 +27,13 @@ Wireframe (User story 4: Move a task forward)
 
 Wireframe (User story 5: Move a task backwards)
 ![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/movebackward.gif)
+
+
+### Front-end tasks and requirements
+
+⋅⋅* Build the application in any framework/libraries of your choice (Preferably ReactJS or VueJS but others are also welcome)
+⋅⋅* You are free to mock the data required to develop this application, including login.
+⋅⋅* Feel free to use any third party libraries or starter projects.  Choice of third party libraries will also be part of the evaluation.
+⋅⋅* Bonus (Optional): 
+  - Use any testing libraries or framework to test against the acceptance criteria defined in the user stories.
+⋅⋅* Timeline of the assignment is 3 days, please let us know if you need time extension.
