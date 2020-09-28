@@ -16,3 +16,14 @@ User Stories for Kanban Board Web Application
 
 Wireframe (User story 2: Creating a task)
 ![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/new_task.gif)
+
+
+Wireframe (User story 3: Deleting a task)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/delete_task.gif)
+
+
+Wireframe (User story 4: Move a task forward)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/moveforward.gif)
+
+Wireframe (User story 5: Move a task backwards)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/movebackward.gif)
