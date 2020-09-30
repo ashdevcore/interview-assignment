@@ -21,18 +21,18 @@ Please submit your codebase to GitHub (include commit history and comment) and s
 
 
 Wireframe (User story 2: Creating a task)
-![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/assets/new_task.gif)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/raw/master/assets/new_task.gif)
 
 
 Wireframe (User story 3: Deleting a task)
-![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/assets/delete_task.gif)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/raw/master/assets/delete_task.gif)
 
 
 Wireframe (User story 4: Move a task forward)
-![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/assets/moveforward.gif)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/raw/master/assets/moveforward.gif)
 
 Wireframe (User story 5: Move a task backwards)
-![Alt Text](https://github.com/ashdevcore/interview-assignment/blob/master/assets/movebackward.gif)
+![Alt Text](https://github.com/ashdevcore/interview-assignment/raw/master/assets/movebackward.gif)
 
 
 ## Front-end tasks and requirements
