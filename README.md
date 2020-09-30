@@ -4,6 +4,7 @@
 You are tasked to build a kanban board on a web application for the development team to manage their development tasks. The kanban board consists of 4 main columns, Backlog, To Do, Ongoing and Done.
 
 Please choose from Frontend or Backend Assignment, End to End full stack solution also welcomed.
+
 Please submit your codebase to GitHub (include commit history and comment) and send back to us.
 
 **Bonus**: A live demo deployment on cloud platform. E.g. AWS, Azure, GCP, Alibaba Cloud or Heroku. 
