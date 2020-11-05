@@ -41,7 +41,7 @@ Wireframe (User story 5: Move a task backwards)
 
 ## Front-end tasks and requirements
 
-- Build the application in any framework/libraries of your choice (Preferably ReactJS or VueJS but others are also welcome)
+- Build the application in any framework/libraries of your choice (**ReactJS** or **VueJS**)
 - You are free to mock the data required to develop this application, including login.
 - Feel free to use any third party libraries or starter projects.  Choice of third party libraries will also be part of the evaluation.
 - Bonus (Optional): 
