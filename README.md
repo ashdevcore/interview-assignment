@@ -5,6 +5,9 @@ You are tasked to build a kanban board on a web application for the development 
 
 Please choose from Frontend or Backend Assignment, End to End full stack solution also welcomed.
 
+Frontend -- Please use modern JavaScript, **ReactJS** or **VueJS**, solution with **jQuery** will not be accepted.
+Backend -- Please use **Java 8** and above version. **Python** or **PHP** will not be accepted.
+
 Please submit your codebase to GitHub (include commit history and comment) and send back to us.
 
 **Bonus**: A live demo deployment on cloud platform. E.g. AWS, Alibaba Cloud, GCP, Azure. 
