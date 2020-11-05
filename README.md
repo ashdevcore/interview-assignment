@@ -7,7 +7,7 @@ Please choose from Frontend or Backend Assignment, End to End full stack solutio
 
 Please submit your codebase to GitHub (include commit history and comment) and send back to us.
 
-**Bonus**: A live demo deployment on cloud platform. E.g. AWS, Azure, GCP, Alibaba Cloud or Heroku. 
+**Bonus**: A live demo deployment on cloud platform. E.g. AWS, Alibaba Cloud, GCP, Azure. 
 
 ## User Stories for Kanban Board Web Application
 
@@ -45,7 +45,7 @@ Wireframe (User story 5: Move a task backwards)
 - Timeline of the assignment is 3 days, please let us know if you need time extension.
 
 ## Back-end tasks and requirements
-
+- Implement Backend System and API with *Java 8* and above
 - Analyze the requirements, design and document the API specifications to support the user stories. Create an endpoint (for example /api/docs) to serve a Swagger UI (or similar) page to display these API specs.
 - Create the APIs as specified in the API specifications you just created. Apart from the API specification page and login endpoint, all other endpoints should be protected (i.e. Only users who have logged in should be able to access these endpoints). Your backend application should be stateless.
 - You may use any in-memory database for this exercise. e.g. H2, sqlite
